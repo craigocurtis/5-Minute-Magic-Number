@@ -1,0 +1,53 @@
+/* CSS TEMPLATE FILE */
+
+body {
+	background-color: #d3d3d3;
+}
+
+#wrapper {
+	margin: 0 auto;
+	width: 85%;
+}
+
+#first, #second, #third {
+	font-family: ‘Lucida Console’, Monaco, monospace;
+}
+
+#first {
+	font-size: 50%;
+}
+
+/*#second {
+	font-size: 50pt;
+}*/
+
+#third {
+	font-size: 50px;
+}
+
+p {
+	font-size: 150px; 
+	text-align: center;
+}
+
+button {
+	width: 100%;
+	padding: 1em;
+	font-size: 3em;
+}
+
+#btn {
+	background-color: royalblue;
+}
+
+#label1,#input1 {
+	color: royalblue;
+}
+
+#btn2 {
+	background-color: tomato;
+}
+
+#btn3 {
+	background-color: chartreuse;
+}
